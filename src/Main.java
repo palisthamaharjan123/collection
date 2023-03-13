@@ -30,5 +30,9 @@ public class Main {
         StackLinkedList sl=new StackLinkedList();
         sl.push();
         sl.pop();
+
+
+        Dequeue d=new Dequeue();
+        d.dequeue();
     }
 }
